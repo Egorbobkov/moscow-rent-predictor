@@ -1,0 +1,7 @@
+catboost
+pandas
+joblib
+fastapi
+uvicorn
+aiogram
+httpx
